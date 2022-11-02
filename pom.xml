@@ -11,7 +11,7 @@
 	<groupId>com.bdv.microservicios</groupId>
 	<artifactId>Msvc-firmante</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Msvc-firmante</name>
+	<name>Microservicio-firmante</name>
 	<description>Microservicio de inserción, modificacion y eliminacion de firmantes</description>
 	<properties>
 		<java.version>17</java.version>
