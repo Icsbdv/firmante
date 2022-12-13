@@ -59,7 +59,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>msvcfirmante</finalName>
+		<finalName>msvcfirmante-r1-bdv</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
